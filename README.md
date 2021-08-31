@@ -18,11 +18,11 @@ Execute the below from Windows command prompt/Linux Shell[**](#footnote)
    ``
    should not error out. If it does, you have missing Tkinter module,
    which needs to be installed.
-2. Now, first start the server from [EYE SERVER.py](EYE SERVER.py)
+2. Now, first start the server :
    ```
    python3 EYE SERVER.py
    ```
-3. Then, run the below to start one client from [THE EYES.py](THE EYES.py):
+3. Then, run the below to start one client :
    ```
    python3 THE EYES.py
    ```
